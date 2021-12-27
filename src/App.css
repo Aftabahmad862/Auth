@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  color: blue;
+  font-size: xx-large;
+  margin-bottom: 0px;
+}
+body {
+  background-color: whitesmoke;
+}
+input[type="text"]:focus {
+  font-weight: 500;
+  color: grey;
+}
